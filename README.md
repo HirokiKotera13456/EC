@@ -24,3 +24,8 @@ Things you may want to cover:
 * ...
 
 
+<<<<<<< HEAD
+=======
+*     odajunpei
+>>>>>>> b08938c7591b2d8ae1412d61f735f74a4444f47a
+aa
