@@ -22,13 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* 
 
 
-*     odajunpei
-test1
-*     nijima john 
-*     hogehoge
-
-*     aki
-*     odajunpei
-main
