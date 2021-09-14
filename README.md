@@ -24,8 +24,3 @@ Things you may want to cover:
 * ...
 * 
 
-okamoto
-okamoto
-* 
-
-
