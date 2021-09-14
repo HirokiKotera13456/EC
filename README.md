@@ -22,9 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-okamoto
 * 
 
+<<<<<<< HEAD
 okamoto
 
 nnn
+=======
+>>>>>>> 7b55dc58e55c4ae3882358107bbb96415b54e01b
