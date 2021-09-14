@@ -25,5 +25,10 @@ Things you may want to cover:
 
 
 *     odajunpei
+test1
 *     nijima john 
 *     hogehoge
+
+*     aki
+*     odajunpei
+main
