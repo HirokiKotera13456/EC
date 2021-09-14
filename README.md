@@ -22,6 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+okamoto
+* 
+
+okamoto
+
 
 
 *     odajunpei
@@ -30,4 +35,5 @@ test1
 
 *     aki
 *     odajunpei
+main
 main
