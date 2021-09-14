@@ -22,14 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-<<<<<<< HEAD
 * 
 
-okamoto
-=======
-okamoto
-* 
-
-okamoto
-
->>>>>>> 2c92ca64e441e2b1de2e7fd350e3e2347e9b2af5
